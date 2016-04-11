@@ -151,7 +151,7 @@ Object.size = function(obj) {
 };
 
 /*
-Data Prep and pass for Virsualization
+Data Prep and pass for Visualization
 */
 
 function displayDataPrep(){
